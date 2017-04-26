@@ -23,4 +23,12 @@
       font-family: "Comic sans Bold";
       src: url("../fonts/comicsans.ttf");
 }
-body { font-family: "Comic sans Bold" }
+body { 
+    font-family: "Comic sans Bold" 
+}
+.container{
+    padding-top: 34px;
+    background: white;
+    overflow-y: auto;
+    opacity: 0.9;
+}
